@@ -95,6 +95,10 @@ Run the application using the following commands:
 
 The tasks are stored in a JSON file named `tasks.json` in the project directory. You can modify the file path by changing the `FileName` variable in `cmd/taskRoot.go`.
 
+## Project Instructions and Requirements
+
+For detailed project instructions and requirements, visit the [Task Tracker Roadmap](https://roadmap.sh/projects/task-tracker).
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
